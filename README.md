@@ -5,7 +5,7 @@
 M2 Money Stock | FRED
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting (https://aws.amazon.com/marketplace/pp/prodview-ucp5ztqwdorwe)[https://aws.amazon.com/marketplace/pp/prodview-ucp5ztqwdorwe].
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-ucp5ztqwdorwe](https://aws.amazon.com/marketplace/pp/prodview-ucp5ztqwdorwe).
 
 ## Main Overview
 
